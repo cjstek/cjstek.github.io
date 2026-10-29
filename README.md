@@ -13,4 +13,4 @@ On this website you will find details regarding my professional experience and a
 
 ## Resume
 
-[OPEN RESUME](Resume V10.26)
+[OPEN RESUME](Resume V10.26.pdf)
