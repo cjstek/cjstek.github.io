@@ -6,9 +6,11 @@ Welcome! I'm a recent engineering graduate with experience in the design and tes
 
 On this website you will find details regarding my professional experience and a portfolio of technical projects.
 
-
-
+## Contact Information
+  * Email: cameronstekelenburg@gmail.com
+  * LinkedIn: https://www.linkedin.com/in/cameron-stekelenburg/
+  * GitHub: github.com/cjstek
 
 ## Resume
 
-[OPEN RESUME](
+[OPEN RESUME](Resume V10.26)
