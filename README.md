@@ -14,3 +14,15 @@ On this website you will find details regarding my professional experience and a
 ## Resume
 
 [OPEN RESUME](Resume V10.26.pdf)
+
+# Projects
+
+## Stability of Multi-Wire Actuated Robot
+ - Language: MATLAB
+ - Origin: Academic Project completed for ME
+ - Code Base & Documentation: [View Repo](https://github.com/cjstek/2D-Mobile-Robot-Naviation)
+
+## Simple 2D Mobile Robot Navigation
+ - Language: MATLAB
+ - Origin: Academic Project completed for ME656, Stevens Institute of Technology
+ - Code Base & Documentation: [View Repo](https://github.com/cjstek/Multi-Wire-Robot-Stability)
