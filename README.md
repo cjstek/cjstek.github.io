@@ -20,9 +20,9 @@ On this website you will find details regarding my professional experience and a
 ## Stability of Multi-Wire Actuated Robot
  - Language: MATLAB
  - Origin: Academic Project completed for ME650, Stevens Institute of Technology
- - Code Base & Documentation: [View Repo](https://github.com/cjstek/2D-Mobile-Robot-Naviation)
+ - Code Base & Documentation: [View Repo](https://github.com/cjstek/Multi-Wire-Robot-Stability)
 
 ## Simple 2D Mobile Robot Navigation
  - Language: MATLAB
  - Origin: Academic Project completed for ME656, Stevens Institute of Technology
- - Code Base & Documentation: [View Repo](https://github.com/cjstek/Multi-Wire-Robot-Stability)
+ - Code Base & Documentation: [View Repo](https://github.com/cjstek/2D-Mobile-Robot-Naviation)
